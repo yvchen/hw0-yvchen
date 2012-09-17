@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.cmu.lti.11791.f12.hw0</groupId>
 	<artifactId>hw0-yvchen</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<scm>
 		<connection>scm:git:git@github.com:yvchen/hw0-yvchen.git</connection>
 		<developerConnection>scm:git:git@github.com:yvchen/hw0-yvchen.git</developerConnection>
